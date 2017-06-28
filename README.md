@@ -7,7 +7,7 @@ TODO: Write installation instructions here
 
 ## Usage
 
-just run your crystal from terminal
+just run your ficha from terminal
 
 ```
 ./ficha
