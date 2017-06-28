@@ -18,13 +18,14 @@ and you will see
 [COMPUTER] Ficha online at http://0.0.0.0:2806
 [LOCAL NETWORK] Ficha online at http://192.168.100.12:2806
 ```
+default port is 2806 :), its special port
 ## Development
 
 Next, more awesomeness on UI/UX, Encryption, I/O, etc
 
 ## Contributing
 
-1. Fork it ( https://github.com/[codenoid]/ficha/fork )
+1. Fork it ( https://github.com/codenoid/ficha/fork )
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
@@ -32,6 +33,6 @@ Next, more awesomeness on UI/UX, Encryption, I/O, etc
 
 ## Contributors
 
-- [[codenoid]](https://github.com/[codenoid]) Rubi Jihantoro - creator, maintainer
+- [codenoid](https://github.com/codenoid) Rubi Jihantoro - creator, maintainer
 - Alfi Cha - Logo Designer and very helpfully person
 - Mose on codepen
