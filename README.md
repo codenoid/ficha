@@ -1,6 +1,6 @@
 # Ficha v.0.01.0
 ![ficha image](https://raw.githubusercontent.com/codenoid/ficha/master/ficha.jpg)
-An super secret chat app for any body who need privacy
+A super secret chat app for any body who need privacy
 
 ## Installation
 just run your ficha from terminal
