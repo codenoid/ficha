@@ -1,4 +1,5 @@
 # Ficha v.0.01.0
+![ficha image](https://raw.githubusercontent.com/codenoid/ficha/branch/ficha.jpg)
 An super secret chat app for keep any user privacy
 
 ## Installation
