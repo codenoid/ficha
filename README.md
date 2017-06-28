@@ -16,11 +16,11 @@ default port is 2806 :), its special port
 
 ## Usage
 
-1. after splash screen, add your username, weird username, cause you need a privacy.
-2. the chat time is Minute:Second
-3. the chat using web socket
-4. encryption based on CryptoJS (end to end) with random key for every server
-5. you can insert HTML tag, like image, youtube video (iframe), javascript script, etc.
+1. After splash screen, add your username, weird username, cause you need a privacy.
+2. The chat time is Minute:Second
+3. The chat using web socket
+4. Encryption based on CryptoJS (end to end) with random key for every server
+5. You can insert HTML tag, like image, youtube video (iframe), javascript script, etc.
 
 ## Development
 
