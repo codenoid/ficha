@@ -3,13 +3,7 @@
 An super secret chat app for keep any user privacy
 
 ## Installation
-
-TODO: Write installation instructions here
-
-## Usage
-
 just run your ficha from terminal
-
 ```
 ./ficha
 ```
@@ -19,6 +13,15 @@ and you will see
 [LOCAL NETWORK] Ficha online at http://192.168.100.12:2806
 ```
 default port is 2806 :), its special port
+
+## Usage
+
+after splash screen, add your username, weird username, cause you need a privacy.
+the chat time is Minute:Second
+the chat using web socket
+encryption based on CryptoJS (end to end) with random key for every server
+you can insert HTML tag, like image, youtube video (iframe), javascript script, etc.
+
 ## Development
 
 Next, more awesomeness on UI/UX, Encryption, I/O, etc
