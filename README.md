@@ -3,11 +3,11 @@
 A super secret chat app for any body who need privacy
 
 ## Installation
-just run your ficha from terminal
+just cd to ficha path
 ```
 ./ficha
 ```
-and you will see
+and read Usage below, and you will see
 ```
 [COMPUTER] Ficha online at http://0.0.0.0:2806
 [LOCAL NETWORK] Ficha online at http://192.168.100.12:2806
@@ -15,6 +15,15 @@ and you will see
 default port is 2806 :), its special port
 
 ## Usage
+
+to run Ficha, you can use this command
+``--port 3232`` set port to 3232
+``--mode development`` set mode development
+``--help`` for show all command and info
+example :
+```
+$ ./ficha --port 3232 --mode development
+```
 
 1. After splash screen, add your username, weird username, cause you need a privacy.
 2. The chat time is Minute:Second
