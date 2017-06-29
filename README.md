@@ -46,6 +46,7 @@ Next, more awesomeness on UI/UX, Encryption, I/O, mention, pull notification, et
 
 ### Donate
 ![Pwiz image](https://raw.githubusercontent.com/codenoid/ficha/master/pwiz.jpeg)
+
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](jasaprogrammer@gmail.com)
 
 ## FAQ (maybe)
