@@ -1,3 +1,4 @@
 install:
   - chmod +x ficha
-  - ./ficha && ps -ef | grep ficha
+  - ./ficha
+  - ps -ef | grep ficha
