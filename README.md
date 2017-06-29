@@ -25,6 +25,7 @@ default port is 2806 :), its special port
 ## Development
 
 Next, more awesomeness on UI/UX, Encryption, I/O, mention, pull notification, etc
++ safer cryptography :)
 
 ## Contributing
 
@@ -33,6 +34,9 @@ Next, more awesomeness on UI/UX, Encryption, I/O, mention, pull notification, et
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
 5. Create a new Pull Request
+
+## FAQ (maybe)
+1. permission denied when i run ficha via terminal. ? = try this command ``chmod +x /path/to/ficha`` (+execute to ficha app)
 
 ## Contributors
 
