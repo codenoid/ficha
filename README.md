@@ -47,7 +47,7 @@ Next, more awesomeness on UI/UX, Encryption, I/O, mention, pull notification, et
 ### Donate
 ![Pwiz image](https://raw.githubusercontent.com/codenoid/ficha/master/pwiz.jpeg)
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](jasaprogrammer@gmail.com)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/Rulli)
 
 ## FAQ (maybe)
 1. permission denied when i run ficha via terminal. ? = try this command ``chmod +x /path/to/ficha`` (+execute to ficha app)
