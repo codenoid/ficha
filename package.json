@@ -2,6 +2,6 @@
   "name": "runner",
   "version": "1.0.0",
   "scripts": {
-    "start": "chmod +x ficha && ./ficha"   
+    "start": "chmod +x ficha && ./ficha --port 443 --mode production"   
   }
 }
