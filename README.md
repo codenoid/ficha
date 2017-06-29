@@ -46,6 +46,7 @@ Next, more awesomeness on UI/UX, Encryption, I/O, mention, pull notification, et
 
 ## FAQ (maybe)
 1. permission denied when i run ficha via terminal. ? = try this command ``chmod +x /path/to/ficha`` (+execute to ficha app)
+2. libgc.so.2: cannot open shared object = try tu run `` sudo apt-get install libgc1c2:i386 ``(install libgc lib)
 
 ## Contributors
 
