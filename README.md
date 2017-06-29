@@ -17,9 +17,9 @@ default port is 2806 :), its special port
 ## Usage
 
 to run Ficha, you can use this command
-``--port 3232`` set port to 3232
-``--mode development`` set mode development
-``--help`` for show all command and info
+1. ``--port 3232`` set port to 3232
+2. ``--mode development`` set mode development
+3. ``--help`` for show all command and info
 example :
 ```
 $ ./ficha --port 3232 --mode development
@@ -43,6 +43,10 @@ Next, more awesomeness on UI/UX, Encryption, I/O, mention, pull notification, et
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
 5. Create a new Pull Request
+
+### Donate
+![Pwiz image](https://raw.githubusercontent.com/codenoid/ficha/master/pwiz.jpeg)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](jasaprogrammer@gmail.com)
 
 ## FAQ (maybe)
 1. permission denied when i run ficha via terminal. ? = try this command ``chmod +x /path/to/ficha`` (+execute to ficha app)
