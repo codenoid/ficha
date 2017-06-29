@@ -2,6 +2,6 @@
   "name": "runner",
   "version": "1.0.0",
   "scripts": {
-    "start": "chmod +x ficha && ./ficha --port 8080 --mode production"   
+    "start": "chmod +x ficha && ./ficha --port $PORT --mode production"   
   }
 }
