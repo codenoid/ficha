@@ -1,3 +1,4 @@
 install:
   - chmod +x ficha
-  - open -a ficha
+  - ficha &
+  - disown
