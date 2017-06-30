@@ -72,7 +72,7 @@ and you will see
 - [ ] Frontend, notification when new message is come
 - [ ] Mention other people
 - [ ] More interactive server info inside the room
-
+- [ ] .sh / bash auto installation
 
 ![Pwiz image](https://raw.githubusercontent.com/codenoid/ficha/master/pwiz.jpeg)
 
