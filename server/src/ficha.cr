@@ -79,7 +79,7 @@ module Ficha
 end
 
 Kemal.config.port = port.to_i
-Kemal.config.env = upcase
+Kemal.config.env = "production"
 Kemal.run
 
 def n(w)
