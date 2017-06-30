@@ -1,0 +1,9 @@
+language: crystal
+crystal:
+  - latest
+  - nightly
+matrix:
+  allow_failures:
+    - crystal: nightly
+before_script:
+  - mkdir -p ./spec/assets/sessions/

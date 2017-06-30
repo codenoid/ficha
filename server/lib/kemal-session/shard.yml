@@ -1,0 +1,10 @@
+name: kemal-session
+version: 0.7.0
+
+authors:
+  - Serdar Dogruyol <dogruyolserdar@gmail.com>
+
+development_dependencies:
+  kemal:
+    github: kemalcr/kemal
+    branch: master

@@ -1,0 +1,22 @@
+name: ficha
+version: 0.1.0
+
+authors:
+  - Rubi Jihantoro <jihantoro8@gmail.com>
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+    branch: master
+  sqlite3:
+    github: crystal-lang/crystal-sqlite3
+  db:
+    github: crystal-lang/crystal-db
+
+targets:
+  ficha:
+    main: src/ficha.cr
+
+crystal: 0.22.0
+
+license: MIT

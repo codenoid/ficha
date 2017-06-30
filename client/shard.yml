@@ -1,0 +1,21 @@
+name: client
+version: 0.1.0
+
+authors:
+  - Rubi Jihantoro <jihantoro8@gmail.com>
+  
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+    branch: master
+  kemal-session:
+    github: kemalcr/kemal-session
+    branch: master
+
+targets:
+  ficha-client:
+    main: src/client.cr
+
+crystal: 0.22.0
+
+license: MIT

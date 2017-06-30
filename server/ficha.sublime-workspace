@@ -1,0 +1,1170 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"set",
+				"setInterval"
+			],
+			[
+				"my",
+				"mycart"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"to",
+				"to_json"
+			],
+			[
+				"query",
+				"query_one"
+			],
+			[
+				"para",
+				"params"
+			],
+			[
+				"que",
+				"query_one"
+			],
+			[
+				"fo",
+				"for\tfor (…) {…}"
+			],
+			[
+				"Ha",
+				"hash"
+			],
+			[
+				"quer",
+				"query_one"
+			],
+			[
+				"video",
+				"video\t<video>"
+			],
+			[
+				"con",
+				"console.timeEnd"
+			],
+			[
+				"CONSO",
+				"console.time"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"fir",
+				"first_name"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"c",
+				"cijqevent\tjQuery Event"
+			],
+			[
+				"mi",
+				"min-height"
+			],
+			[
+				"console",
+				"console.log"
+			],
+			[
+				"app",
+				"application"
+			],
+			[
+				"content",
+				"content_type"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"l",
+				"lam\tlambda { |args| .. }"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"list",
+				"listbarber"
+			],
+			[
+				"A",
+				"arr"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"consol",
+				"console.log"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"conso",
+				"console.log"
+			],
+			[
+				"modul",
+				"module.exports"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"Rg",
+				"rgba()"
+			],
+			[
+				"cons",
+				"console.log"
+			],
+			[
+				"f",
+				"fe\tforEach"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"Main",
+				"main_users"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"jd",
+				"json_encode"
+			],
+			[
+				"main",
+				"main_posts"
+			],
+			[
+				"main_",
+				"main_users"
+			],
+			[
+				"js",
+				"json_decode"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"sub",
+				"substr"
+			],
+			[
+				"RES",
+				"result"
+			],
+			[
+				"array_s",
+				"array_sum"
+			],
+			[
+				"html",
+				"htmlentities"
+			],
+			[
+				"pro",
+				"project"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"ses",
+				"session_userdata\tCI - Session - Retrieving Session Data"
+			],
+			[
+				"ci_",
+				"ci_start\tCI - Generic Starter Class"
+			],
+			[
+				"menu",
+				"menus"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"isn",
+				"is_numeric"
+			],
+			[
+				"is_nu",
+				"is_numeric"
+			],
+			[
+				"uri",
+				"uri_segment\tCI - URI Segment"
+			],
+			[
+				"ur",
+				"uri_segment\tCI - URI Segment"
+			],
+			[
+				"title",
+				"title\tAttr"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"ci",
+				"ci_start\tCI - Generic Starter Class"
+			],
+			[
+				"sele",
+				"selected\tAttr"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"label",
+				"label\t<label>"
+			],
+			[
+				"product",
+				"productid"
+			],
+			[
+				"load",
+				"load_view\tCI - Load View"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bloc",
+				"block"
+			],
+			[
+				"styl",
+				"style\tAttr"
+			],
+			[
+				"a",
+				"a\t<a>"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"ar",
+				"array"
+			],
+			[
+				"prod",
+				"product"
+			],
+			[
+				"produ",
+				"Product"
+			],
+			[
+				"show",
+				"show_404"
+			],
+			[
+				"num",
+				"number_format"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"stat",
+				"static"
+			],
+			[
+				"REQ",
+				"REQUEST_METHOD"
+			],
+			[
+				"key",
+				"keythree"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"exe",
+				"execute"
+			],
+			[
+				"materi",
+				"material-icons"
+			],
+			[
+				"w",
+				"which"
+			],
+			[
+				"whi",
+				"which"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"liha",
+				"lihat-detail"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"li",
+				"lihat-detail"
+			],
+			[
+				"edit",
+				"edit-popup"
+			],
+			[
+				"it",
+				"item"
+			],
+			[
+				"id",
+				"idinput"
+			],
+			[
+				"getlas",
+				"getlastid"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"as",
+				"asiang"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"sho",
+				"shop"
+			],
+			[
+				"post",
+				"post_name"
+			],
+			[
+				"base_",
+				"base_url"
+			],
+			[
+				"act",
+				"active-id"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"send",
+				"sendApiMsg"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/ficha.cr",
+			"settings":
+			{
+				"buffer_size": 1932,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/ayam/Documents/kafarahapp/ficha-client/shard.yml",
+			"settings":
+			{
+				"buffer_size": 314,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/ayam/Documents/kafarahapp/ficha-client/src/ficha-client.cr",
+			"settings":
+			{
+				"buffer_size": 1266,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test.txet",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/ayam/Documents/kafarahapp/ficha-client/src/views/main.ecr",
+			"settings":
+			{
+				"buffer_size": 46922,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "shard.yml",
+			"settings":
+			{
+				"buffer_size": 315,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/ayam/Documents/learn/httpclientget.cr",
+			"settings":
+			{
+				"buffer_size": 245,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test.txt",
+			"settings":
+			{
+				"buffer_size": 3,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "e",
+		"selected_items":
+		[
+			[
+				"e",
+				"Emoji: Insert Emoji"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"package control ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/ayam/Documents/kafarahapp/ficha",
+		"/home/ayam/Documents/kafarahapp/ficha/src",
+		"/home/ayam/Documents/kafarahapp/ficha-client",
+		"/home/ayam/Documents/kafarahapp/ficha-client/src",
+		"/home/ayam/Documents/kafarahapp/ficha-client/src/views"
+	],
+	"file_history":
+	[
+		"/home/ayam/Documents/kafarahapp/educode/src/educode.cr",
+		"/home/ayam/Documents/kafarahapp/ficha-client/src/views/image.ecr",
+		"/home/ayam/Documents/kafarahapp/ficha/src/views/image.ecr",
+		"/home/ayam/Documents/kafarahapp/ficha/src/views/main.ecr",
+		"/home/ayam/Documents/kafarahapp/shard.yml",
+		"/home/ayam/Documents/kafarahi.txt",
+		"/home/ayam/Documents/kafarahapp/ficha/lib/kemal/src/kemal.cr",
+		"/home/ayam/Music/ficha/src/views/main.ecr",
+		"/home/ayam/Documents/kafarahapp/ficha/lib/kemal/src/kemal/helpers/templates.cr",
+		"/home/ayam/Documents/kafarahapp/ficha/shard.yml",
+		"/home/ayam/Documents/kafarahapp/ficha/test.txet",
+		"/home/ayam/Documents/kafarahapp/pondokit/src/pondokit.cr",
+		"/home/ayam/Documents/kafarahapp/educode/shard.yml",
+		"/home/ayam/Documents/kafarahapp/educode/src/views/cassier.ecr",
+		"/home/ayam/Documents/kafarahapp/educode/public/bundle.js",
+		"/var/www/html/by/application/views/part/topmenu.php",
+		"/home/ayam/Documents/kafarahapp/educode/src/views/auth.ecr",
+		"/home/ayam/Documents/kafarahapp/educode/src/views/part/topmenu.ecr",
+		"/home/ayam/Documents/kafarahapp/educode/src/views/video.ecr",
+		"/home/ayam/Documents/kafarahapp/educode/src/views/home.ecr",
+		"/home/ayam/Documents/kafarahapp/educode/src/views/detailvideo.ecr",
+		"/home/ayam/Documents/learn/helloworld.c",
+		"/home/ayam/Documents/benchmark/matmul/wasit.rb",
+		"/home/ayam/Documents/benchmark/matmul/matmul.sh",
+		"/home/ayam/Documents/benchmark/matmul/matmul.js",
+		"/home/ayam/Documents/benchmark/matmul/matmul.rb",
+		"/home/ayam/Documents/benchmark/matmul/matmul.py",
+		"/home/ayam/Documents/benchmark/matmul/matmul.kt",
+		"/home/ayam/Documents/benchmark/matmul/matmul.nim",
+		"/home/ayam/Documents/benchmark/matmul/matmul.go",
+		"/home/ayam/Documents/benchmark/basic.nim",
+		"/home/ayam/Documents/benchmark/matmul.kt",
+		"/home/ayam/Documents/benchmark/matmul.sh",
+		"/home/ayam/Documents/benchmark/wasit.rb",
+		"/home/ayam/Documents/kafarahapp/arfacr/src/arfacr.cr",
+		"/home/ayam/Documents/kafarahapp/educode/lib/db/src/db/driver.cr",
+		"/home/ayam/Documents/educode/src/educode.cr",
+		"/home/ayam/Documents/educode/src/ef.cr",
+		"/home/ayam/Documents/kemal-chat/views/index.ecr",
+		"/home/ayam/Documents/kafarahapp/educode/src/arfacr/version.cr",
+		"/home/ayam/Documents/kafarahapp/educode/lib/kemal/src/kemal/helpers/templates.cr",
+		"/home/ayam/Documents/kafarahapp/educode/src/views/detailmateri.ecr",
+		"/home/ayam/Documents/kafarahapp/educode/src/views/materi.ecr",
+		"/home/ayam/Documents/kafarahapp/educode/lib/kemal-session/.gitignore",
+		"/home/ayam/Documents/kafarahapp/educode/lib/kemal/src/kemal/init_handler.cr",
+		"/home/ayam/Documents/kafarahapp/educode/lib/kemal/src/kemal.cr",
+		"/home/ayam/Downloads/oldscript/29ck92hcvl38rula9vqr78r7r9kcnvz2/views/ui/detail.php",
+		"/home/ayam/Documents/benchmark/hello.go",
+		"/home/ayam/Documents/benchmark/matmul.js",
+		"/home/ayam/go1.4/doc/articles/wiki/http-sample.go",
+		"/home/ayam/go1.4/doc/progs/json1.go",
+		"/home/ayam/go1.4/doc/articles/wiki/final.go",
+		"/home/ayam/Documents/benchmark/basichttp.go",
+		"/home/ayam/go1.4/doc/codewalk/pig.go",
+		"/home/ayam/go1.4/doc/play/peano.go",
+		"/home/ayam/go1.4/doc/play/life.go",
+		"/home/ayam/go1.4/doc/play/tree.go",
+		"/home/ayam/go1.4/doc/play/fib.go",
+		"/home/ayam/go1.4/doc/play/pi.go",
+		"/home/ayam/go1.4/doc/play/solitaire.go",
+		"/home/ayam/go1.4/doc/play/hello.go",
+		"/home/ayam/go1.4/doc/play/sieve.go",
+		"/home/ayam/go1.4/doc/code.html",
+		"/home/ayam/Documents/kafarahapp/educode/public/style.css",
+		"/home/ayam/Downloads/Semantic-UI-master (2)/examples/sticky.html",
+		"/var/www/html/by/application/views/welcome_message.php",
+		"/home/ayam/Documents/kafarahapp/educode/public/template/index.html",
+		"/home/ayam/Downloads/node-webkit-chat-master/socket-chat-server/index.js",
+		"/home/ayam/Downloads/node-express-mongoose-demo-master/server.js",
+		"/home/ayam/Downloads/node-express-mongoose-demo-master/app/views/articles/article.jade",
+		"/home/ayam/Downloads/node-express-mongoose-demo-master/app/controllers/articles.js",
+		"/home/ayam/Documents/benchmark/base64.kt",
+		"/home/ayam/Downloads/SpringIn28Minutes-master/1.BasicExample/src/main/java/com/in28minutes/example/spring/examples/OldJdbcExample.java",
+		"/home/ayam/Downloads/SpringIn28Minutes-master/1.BasicExample/src/main/java/com/in28minutes/example/spring/business/api/TodoBusinessService.java",
+		"/home/ayam/Downloads/SpringMVCDemo-master/src/main/java/com/gaussic/controller/MainController.java",
+		"/home/ayam/Downloads/SpringMVCDemo-master/src/main/java/com/gaussic/controller/BlogController.java",
+		"/home/ayam/Downloads/aplikasi-dosen-master/src/main/java/id/ac/tazkia/dosen/controller/HomeController.java",
+		"/home/ayam/Downloads/aplikasi-dosen-master/src/main/java/id/ac/tazkia/dosen/controller/SuratTugasController.java",
+		"/home/ayam/Downloads/aplikasi-dosen-master/src/main/java/id/ac/tazkia/dosen/controller/ProgramStudiController.java",
+		"/home/ayam/Downloads/aplikasi-dosen-master/src/main/java/id/ac/tazkia/dosen/controller/DosenController.java",
+		"/home/ayam/Downloads/aplikasi-dosen-master/src/main/java/id/ac/tazkia/dosen/AplikasiDosenApplication.java",
+		"/home/ayam/Documents/kafarahapp/educode/public/template/auth.html",
+		"/home/ayam/Documents/kafarahapp/educode/src/views/testview.ecr",
+		"/home/ayam/Downloads/Semantic-UI-master (2)/examples/homepage.html",
+		"/home/ayam/Documents/kafarahapp/educode/src/views/part/welcome.ecr",
+		"/home/ayam/Documents/kafarahapp/educode/src/views/wschat.ecr",
+		"/home/ayam/Documents/kemal-chat/src/kemal_chat.cr",
+		"/home/ayam/Documents/learn/crystalview.ecr",
+		"/home/ayam/Downloads/realtime-todo-app-master/src/views/layout.ecr",
+		"/home/ayam/Documents/reseller/src/views/test.ecr",
+		"/home/ayam/Documents/reseller/src/views/home.ecr",
+		"/home/ayam/Documents/kemalblog/src/views/home.ecr",
+		"/home/ayam/Documents/educode/src/views/detailcourse.ecr",
+		"/home/ayam/Documents/kafarahapp/crystal_samples/HTML/escape.cr",
+		"/home/ayam/Documents/kafarahapp/crystal_samples/ENV/at.cr",
+		"/home/ayam/Documents/kafarahapp/crystal_samples/IniFile/load.cr",
+		"/home/ayam/Documents/kafarahapp/crystal_samples/Markdown/to_html.cr",
+		"/home/ayam/Documents/kafarahapp/crystal_samples/Union/new.cr",
+		"/home/ayam/Documents/kafarahapp/crystal_samples/Union/nilable.cr",
+		"/home/ayam/Documents/kafarahapp/crystal_samples/URI/parse.cr",
+		"/home/ayam/Documents/kafarahapp/crystal_samples/URI/password.cr",
+		"/home/ayam/Documents/kafarahapp/crystal_samples/XML/parse.cr",
+		"/home/ayam/Documents/kafarahapp/crystal_samples/XML/escape.cr",
+		"/home/ayam/Documents/kafarahapp/crystal-by-example/reading-files/reading-files.cr",
+		"/home/ayam/Documents/kafarahapp/crystal-by-example/random/random.cr",
+		"/home/ayam/Documents/kafarahapp/crystal-by-example/hello/hello.cr",
+		"/home/ayam/Documents/kafarahapp/crystal-by-example/channel-synchronization/channel-synchronization.cr",
+		"/home/ayam/Documents/kafarahapp/crystal-by-example/tuple/tuple.cr",
+		"/home/ayam/Documents/kafarahapp/crystal-by-example/tickers/tickers.cr",
+		"/home/ayam/Documents/kafarahapp/crystal-by-example/spawn/spawn.cr",
+		"/home/ayam/Documents/kafarahapp/crystal-by-example/recursion/recursion.cr",
+		"/home/ayam/Documents/kafarahapp/crystal-by-example/regular-expressions/regular-expressions.cr",
+		"/home/ayam/Documents/kafarahapp/crystal-by-example/time/time.cr",
+		"/home/ayam/Documents/kafarahapp/crystal-by-example/time-formatting-parsing/time-formatting-parsing.cr",
+		"/home/ayam/Documents/kafarahapp/crystal-by-example/url-parsing/url-parsing.cr",
+		"/home/ayam/Documents/kafarahapp/crystal-by-example/worker-pools/worker-pools.cr",
+		"/home/ayam/Documents/kafarahapp/crystal-by-example/variables/variables.cr",
+		"/home/ayam/Documents/kafarahapp/kemal-react-chat/src/app.cr",
+		"/home/ayam/Documents/kafarahapp/kemal-react-chat/src/views/index.ecr",
+		"/home/ayam/Documents/kafarahapp/kamber/shard.yml",
+		"/home/ayam/Documents/kafarahapp/kamber/src/config.cr",
+		"/home/ayam/Documents/kafarahapp/kamber/src/kamber.cr",
+		"/home/ayam/Documents/reseller/src/home.cr",
+		"/home/ayam/Documents/reseller/src/reseller.cr",
+		"/home/ayam/Documents/kafarahapp/educode/spec/spec_helper.cr",
+		"/home/ayam/Documents/kafarahapp/educode/src/views/welcome.ecr",
+		"/home/ayam/Documents/kafarahapp/educode/src/views/listbarber.ecr",
+		"/var/www/html/jquery.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sess",
+			"<%=",
+			"form",
+			"this)",
+			"../xtime.rb",
+			"?",
+			"wid",
+			"justa",
+			".ecr",
+			"welcome.ec",
+			"alert",
+			"id=\"me",
+			";\n",
+			"work",
+			");}}\n",
+			"blurbs-da",
+			" )",
+			"pug",
+			"script(src='",
+			"href='",
+			"href=\"..",
+			"src=\"..",
+			"              \n",
+			"/profile",
+			"profi",
+			"port",
+			"app.set",
+			"passport",
+			"routes",
+			"\n\t\"channels\":\n\t[\n\t\t\"https://packagecontrol.io/channel_v3.json\",\n\t\t\"https://web.archive.org/web/20150905194312/https://packagecontrol.io/channel_v3.json\"\n\t],",
+			"tanggal",
+			"and",
+			">\n",
+			"url",
+			".js",
+			".banner-i",
+			"src=\"ima",
+			" \")",
+			"table",
+			"src=\"images",
+			"src=\"js",
+			"href=\"css",
+			"src=\"js",
+			"src=\"images/",
+			"\">",
+			"listanu",
+			"input",
+			".ui.segment",
+			"ea",
+			"modal",
+			":hover",
+			"shadow",
+			".title",
+			"card-content",
+			"Pondok Programmer",
+			"match",
+			"blue",
+			"get",
+			"e.preventDefault();",
+			"#thumbnail",
+			"input {",
+			"input",
+			"textarea",
+			"rgba",
+			"blue",
+			"<br>",
+			"name",
+			".js",
+			"sendApiMsg($chatid, 'pesan *tebal*', false, 'Markdown');",
+			"m",
+			"setsess",
+			"json"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"wasit.rb",
+			"script(src='/backend/",
+			"href='/backend/",
+			"href='/backend",
+			"href=\"/backend",
+			"src=\"/backend",
+			"/home",
+			"src=\"<?php echo $assets; ?>ima",
+			"src=\"<?php echo base_url('static/frontend'); ?>/images",
+			"src=\"<?php echo base_url('static/frontend'); ?>/js",
+			"href=\"<?php echo base_url('static/frontend'); ?>/css",
+			"src=\"<?php echo base_url('static/frontend'); ?>/js",
+			"src=\"<?php echo base_url('static/frontend'); ?>/images/",
+			"Pondok Cyber",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/ficha.cr",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1932,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1196,
+								1196
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Crystal/Crystal.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/ayam/Documents/kafarahapp/ficha-client/shard.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 314,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								313,
+								313
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/ayam/Documents/kafarahapp/ficha-client/src/ficha-client.cr",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1266,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								705,
+								705
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Crystal/Crystal.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "test.txet",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/ayam/Documents/kafarahapp/ficha-client/src/views/main.ecr",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 46922,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								43195,
+								43195
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4126.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "shard.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 315,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								147,
+								147
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/home/ayam/Documents/learn/httpclientget.cr",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 245,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								240,
+								240
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Crystal/Crystal.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "test.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3,
+								3
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.crystal_errors":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ficha.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 161.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
