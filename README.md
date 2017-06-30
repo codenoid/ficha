@@ -3,38 +3,75 @@
 A super secret chat app for any body who need privacy
 
 ## Installation
-just cd to ficha path
-```
-./ficha
-```
-and read Usage below, and you will see
-```
-[COMPUTER] Ficha online at http://0.0.0.0:2806
-[LOCAL NETWORK] Ficha online at http://192.168.100.12:2806
-```
-default port is 2806 :), its special port
+Ficha come with 2 type file, server app and client app.
+### Server Installation
+1. ``cd`` to ficha/server path
+2. use ``./sentry`` or ``crystal build --release src/ficha.cr ``
+3. `` ./sentry `` comes with auto run, but in crystal build you can ran manually by typing `` ./ficha --cmd [args] ``
+
+### Client Installation
+1. ``cd`` to ficha/client path
+2. use ``./sentry`` or ``crystal build --release src/client.cr ``
+3. `` ./sentry `` comes with auto run, but in crystal build you can ran manually by typing `` ./client --cmd [args] ``
 
 ## Usage
+Usage info for server and client
 
-to run Ficha, you can use this command
-1. ``--port 3232`` set port to 3232
-2. ``--mode development`` set mode development
-3. ``--help`` for show all command and info
-example :
+### Server Usage
+Example way to activate The Server
 ```
-$ ./ficha --port 3232 --mode development
+$ ./ficha --port 2121 --dbpath sq.qyuel --write
+```
+`` sq.qyuel `` is sqlite db file, mean you use sqlite db
+
+`` text.cha `` is text plain file, mean you use text plain as as your db
+
+This cute machine automaticly check, is this sqlite db ?..
+
+`` --write `` command mean, user can update the db.
+
+without ``--write`` mean, when you reload a client side, the value of choosed db will showed, but when user create some message, data will not saved.
+
+and you will see
+```
+[COMPUTER] Ficha online at http://0.0.0.0:2121
+[LOCAL NETWORK] Ficha online at http://192.168.100.12:2121
+```
+### Client Usage
+example args for activating the client app
+```
+$ ./client --ip 0.0.0.0:2121 --key ayambawang --port 2000
+```
+Command info
+1. `` --ip 0.0.0.0:2121 `` is the server ip.
+2. `` --key ayambawang `` is a main secret key of old / new message.
+3. `` --port `` set your client port.
+
+and you will see
+```
+[COMPUTER] Ficha online at http://0.0.0.0:2000
+[LOCAL NETWORK] Ficha online at http://192.168.100.12:2000
 ```
 
 1. After splash screen, add your username, weird username, cause you need a privacy.
 2. The chat time is Minute:Second
 3. The chat using web socket
-4. Encryption based on CryptoJS (end to end) with random key for every server
+4. Encryption based on CryptoJS (end to end).
 5. You can insert HTML tag, like image, youtube video (iframe), javascript script, etc.
+6. anytime any where deploy
 
 ## Development
 
-Next, more awesomeness on UI/UX, Encryption, I/O, mention, pull notification, etc
-+ safer cryptography :)
+- [x] Adding a memorable logo
+- [x] Use memorable name
+- [x] End To End Encryption
+- [ ] Apperance, change theme, font and markdown
+- [ ] More interactive console & console log
+- [ ] Frontend Cryptography
+- [ ] Cross Compile Binary file with auto symlink (to lib)
+- [ ] Frontend, notification when new message is come
+- [ ] Mention other people
+- [ ] More interactive server info inside the room
 
 ## Contributing
 
@@ -58,3 +95,4 @@ Next, more awesomeness on UI/UX, Encryption, I/O, mention, pull notification, et
 - [codenoid](https://github.com/codenoid) Rubi Jihantoro - creator, maintainer
 - Alfi Cha - Logo Designer and very helpfully person
 - Mose on codepen
+- All of my friend on [Crystal](https://gitter.im/crystal-lang/crystal) , [Kemal](https://gitter.im/sdogruyol/kemal) , etc
