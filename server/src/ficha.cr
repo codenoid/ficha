@@ -13,7 +13,7 @@ SOCKETS = [] of HTTP::WebSocket
 
 upcase = "development"
 # storage = "none"
-dbfile = ""
+dbfile = "e"
 wperm = "n"
 port = 2000
 sqlite = [".sqlite", ".sql", ".sqlite3"]
@@ -30,29 +30,44 @@ module Ficha
   ws "/" do |socket|
     SOCKETS << socket
     n = 0
-    File.open(dbfile, "r") do |f|
-      f.each_line do |line|
-        n += 1
-        anu = line
-        if n == 1 && anu.includes?("format") # sqlite format
-          puts "this is sqlite 3 file"       # SQLITE COMMAND
-          db = DB.open "sqlite3://" + dbfile
-          at_exit { db.close }
-          db.query "select data from main_posts" do |msg|
-            msg.each do
-              rd = msg.read(String)
-              puts rd
+    if dbfile != "e"
+      File.open(dbfile, "r") do |f|
+        f.each_line do |line|
+          n += 1
+          anu = line
+          if n == 1 && anu.includes?("format") # sqlite format
+            puts "this is sqlite 3 file"       # SQLITE COMMAND
+            db = DB.open "sqlite3://" + dbfile
+            at_exit { db.close }
+            db.query "select data from main_posts" do |msg|
+              msg.each do
+                rd = msg.read(String)
+                socket.send n("m") + ":" + n("s") + "(+)" + rd
+              end
             end
+          else # text plain format
+            socket.send n("m") + ":" + n("s") + "(+)" + line
           end
-        else # text plain format
-          socket.send n("m") + ":" + n("s") + "(+)" + line
         end
       end
     end
     socket.on_message do |message|
-      if File.extname(dbfile) == ".cha" && wperm == "y"
-        File.open(dbfile, "a") do |file|
-          file.puts message + " \n"
+      if dbfile != "e"
+        File.open(dbfile, "r") do |f|
+          f.each_line do |line|
+            n += 1
+            anu = line
+            if n == 1 && anu.includes?("format") # sqlite format
+              puts "this is sqlite 3 file"       # SQLITE COMMAND
+              db = DB.open "sqlite3://" + dbfile
+              at_exit { db.close }
+              db.exec "insert into main_posts (data) VALUES (?)", message
+            else # text plain format
+              File.open(dbfile, "a") do |file|
+                file.puts message + " \n"
+              end
+            end
+          end
         end
       end
       socket.send n("m") + ":" + n("s") + "(+)" + message
