@@ -73,6 +73,11 @@ and you will see
 - [ ] Mention other people
 - [ ] More interactive server info inside the room
 
+
+![Pwiz image](https://raw.githubusercontent.com/codenoid/ficha/master/pwiz.jpeg)
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/Rulli)
+
 ## Contributing
 
 1. Fork it ( https://github.com/codenoid/ficha/fork )
@@ -80,11 +85,6 @@ and you will see
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
 5. Create a new Pull Request
-
-### Donate
-![Pwiz image](https://raw.githubusercontent.com/codenoid/ficha/master/pwiz.jpeg)
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/Rulli)
 
 ## FAQ (maybe)
 1. permission denied when i run ficha via terminal. ? = try this command ``chmod +x /path/to/ficha`` (+execute to ficha app)
