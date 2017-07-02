@@ -27,6 +27,9 @@ OptionParser.parse! do |parser|
 end
 
 module Ficha
+  get "/" do 
+    "active"
+  end
   ws "/" do |socket|
     SOCKETS << socket
     n = 0
