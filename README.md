@@ -4,16 +4,17 @@ A super secret chat app for any body who need privacy
 
 ## Installation
 First, you must have Crystal Programming Language installed in your machine, [Follow This Guide](http://jihantoro.net/read/install-crystal-language-on-ubuntu)
+
 Ficha come with 2 type file, server app and client app.
 ### Server Installation
 1. ``cd`` to ficha/server path
 2. use ``./sentry`` or ``crystal build --release src/ficha.cr ``
-3. `` ./sentry `` comes with auto run, but in crystal build you can ran manually by typing `` ./ficha --cmd [args] ``
+3. `` ./sentry `` comes with auto run (and without setting any argument), but in crystal build you can ran manually by typing `` ./ficha --cmd [args] ``
 
 ### Client Installation
 1. ``cd`` to ficha/client path
 2. use ``./sentry`` or ``crystal build --release src/client.cr ``
-3. `` ./sentry `` comes with auto run, but in crystal build you can ran manually by typing `` ./client --cmd [args] ``
+3. `` ./sentry `` comes with auto run (and without setting any argument), but in crystal build you can ran manually by typing `` ./client --cmd [args] ``
 
 ## Usage
 Usage info for server and client
