@@ -75,6 +75,7 @@ and you will see
 - [ ] Mention other people
 - [ ] More interactive server info inside the room
 - [ ] .sh / bash auto installation
+- [ ] CLI version (more safer)
 
 ![Pwiz image](https://raw.githubusercontent.com/codenoid/ficha/master/pwiz.jpeg)
 
