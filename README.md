@@ -3,6 +3,7 @@
 A super secret chat app for any body who need privacy
 
 ## Installation
+First, you must have Crystal Programming Language installed in your machine, [Follow This Guide](http://jihantoro.net/read/install-crystal-language-on-ubuntu)
 Ficha come with 2 type file, server app and client app.
 ### Server Installation
 1. ``cd`` to ficha/server path
