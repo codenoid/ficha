@@ -1,4 +1,5 @@
-# Ficha v.0.01.0
+# Ficha [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/veelenga/awesome-crystal)
+
 ![ficha image](https://raw.githubusercontent.com/codenoid/ficha/master/ficha.jpg)
 A super secret chat app for any body who need privacy
 
