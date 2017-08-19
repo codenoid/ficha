@@ -78,10 +78,6 @@ and you will see
 - [ ] .sh / bash auto installation
 - [ ] CLI version (more safer)
 
-![Pwiz image](https://raw.githubusercontent.com/codenoid/ficha/master/pwiz.jpeg)
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/Rulli)
-
 ## Contributing
 
 1. Fork it ( https://github.com/codenoid/ficha/fork )
