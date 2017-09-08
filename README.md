@@ -68,6 +68,7 @@ and you will see
 - [x] Adding a memorable logo
 - [x] Use memorable name
 - [x] End To End Encryption
+- [ ] Fix untrached Bug
 - [ ] Apperance, change theme, font and markdown
 - [ ] More interactive console & console log
 - [ ] Frontend Cryptography
