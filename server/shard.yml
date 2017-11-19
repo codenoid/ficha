@@ -7,7 +7,7 @@ authors:
 dependencies:
   kemal:
     github: kemalcr/kemal
-    branch: master
+    version: 0.21.0
   sqlite3:
     github: crystal-lang/crystal-sqlite3
   db:
