@@ -7,7 +7,7 @@ authors:
 dependencies:
   kemal:
     github: kemalcr/kemal
-    branch: master
+    version: 0.21.0
   kemal-session:
     github: kemalcr/kemal-session
     branch: master
